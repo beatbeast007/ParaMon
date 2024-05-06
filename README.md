@@ -58,18 +58,35 @@ Follow the prompts to enter the target URL, choose options, and view the scan re
 ## Examples
 
 Scan a single URL:
+
 ![image](https://github.com/beatbeast007/ParaMon/assets/82287046/2faf7b52-e66f-44c0-86de-21eb3217114c)
 
+
 Scan multiple URLs from a file:
+
 ![image](https://github.com/beatbeast007/ParaMon/assets/82287046/0be76dd9-c459-43a9-ad02-4d87c4bd30b3)
 
 
 Scan with specific threads:
 
+![image](https://github.com/beatbeast007/ParaMon/assets/82287046/d9100570-e7e2-48b6-8bfd-178a974a983a)
+
 
 Scan using a wordlist:
 
+![image](https://github.com/beatbeast007/ParaMon/assets/82287046/8c29ff65-90b6-4ee8-bc0f-bc8a5821a878)
+
+
+Scan with specific time delay:
+
+![image](https://github.com/beatbeast007/ParaMon/assets/82287046/24ac56e8-a362-4ce0-bdce-b6bee75d44e4)
+
+
 Save output to a file:
+
+![image](https://github.com/beatbeast007/ParaMon/assets/82287046/612c7edb-6da5-4291-83f7-effc5b20bb0f)
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to ParaMon, please follow these steps:
