@@ -46,7 +46,7 @@ To scan a URL:
 
 
 ```bash
-  python paramon.py
+  python ParaMon.py
 ```
 Follow the prompts to enter the target URL, choose options, and view the scan results.
 ## Options
