@@ -39,4 +39,4 @@ When contributing code to ParaMon, please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/beatbeast007/ParaMon/blob/main/LICENSE) file for details
