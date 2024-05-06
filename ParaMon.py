@@ -18,7 +18,6 @@ print("""
 
 """)
 
-
 THREADS = 2
 
 def extract_parameters(url, wordlist=None):
@@ -157,6 +156,15 @@ def prompt_for_delay():
         return int(delay) if delay.isdigit() and 1 <= int(delay) <= 20 else 2
     else:
         return 2
+
+def read_urls_from_file(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            urls = file.readlines()
+            return [url.strip() for url in urls]
+    except Exception as e:
+        print(f"An error occurred while reading URLs from file: {str(e)}")
+        return []
 
 
 if __name__ == "__main__":
