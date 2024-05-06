@@ -58,10 +58,14 @@ Follow the prompts to enter the target URL, choose options, and view the scan re
 ## Examples
 
 Scan a single URL:
+![image](https://github.com/beatbeast007/ParaMon/assets/82287046/2faf7b52-e66f-44c0-86de-21eb3217114c)
 
 Scan multiple URLs from a file:
+![image](https://github.com/beatbeast007/ParaMon/assets/82287046/0be76dd9-c459-43a9-ad02-4d87c4bd30b3)
+
 
 Scan with specific threads:
+
 
 Scan using a wordlist:
 
