@@ -31,11 +31,11 @@ ParaMon is a Python script designed to scan URLs and identify potential paramete
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/paramon.git
+  git clone https://github.com/beatbeast007/ParaMon.git
 ```
 2. Navigate to the project directory:
 ```bash
-  cd paramon
+  cd ParaMon
 ```
 3. Install dependencies:
 ```bash
