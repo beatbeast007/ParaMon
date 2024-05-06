@@ -1,0 +1,4 @@
+re
+requests
+beautifulsoup4
+concurrent.futures
