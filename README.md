@@ -103,6 +103,4 @@ Contributions are welcome! If you'd like to contribute to ParaMon, please follow
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/beatbeast007/ParaMon/blob/main/LICENSE) file for details
-## 
-Feel free to further customize this README.md as needed for your project!
 
